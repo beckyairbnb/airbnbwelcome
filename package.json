@@ -15,6 +15,7 @@
     "gatsby-plugin-offline": "^2.2.10",
     "gatsby-plugin-react-helmet": "^3.6.0",
     "gatsby-plugin-sharp": "^2.10.1",
+    "gatsby-plugin-sitemap": "^3.1.0",
     "gatsby-plugin-snipcart": "^1.1.2",
     "gatsby-source-filesystem": "^2.7.0",
     "gatsby-source-flotiq": "^2.2.3",

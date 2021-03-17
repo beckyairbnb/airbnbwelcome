@@ -6,6 +6,7 @@ module.exports = {
     title: `OneShopper`,
     description: `A starter for a e-commerce powered by Gatsby and Flotiq`,
     author: `@flotiq`,
+    siteUrl: 'https://www.originalkettlebell.com',
   },
   plugins: [{
       "resolve": "gatsby-source-flotiq",
@@ -23,6 +24,7 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    `gatsby-plugin-sitemap`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-remark`,
