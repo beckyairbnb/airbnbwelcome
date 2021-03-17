@@ -6,7 +6,7 @@ module.exports = {
     title: `OneShopper`,
     description: `A starter for a e-commerce powered by Gatsby and Flotiq`,
     author: `@flotiq`,
-    siteUrl: 'https://www.originalkettlebell.com',
+    siteUrl: 'https://www.airbnbwelcome.com',
   },
   plugins: [{
       "resolve": "gatsby-source-flotiq",
