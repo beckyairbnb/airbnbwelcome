@@ -19,7 +19,7 @@ class Footer extends React.Component {
                         </div>
                         <div className="footer-bottom social-right-menu ">
                             <div className="site-info">
-                                ©2019 Oneshopper. All rights reserved | <a href="https://flotiq.com">Flotiq.com</a>
+                                ©2021 AirnbWelcome. All rights reserved | Strategically Digital Marketing Ltd Trading as Airbnb Welcome. Company Number 11898834 registered in England & Wales. 454 Long Lane, London, N2 8JL. VAT 328 9819 52.
                             </div>
                         </div>
                     </div>
