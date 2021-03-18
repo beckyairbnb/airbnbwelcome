@@ -3,9 +3,8 @@ dotenv.config();
 
 module.exports = {
   siteMetadata: {
-    title: `OneShopper`,
-    description: `A starter for a e-commerce powered by Gatsby and Flotiq`,
-    author: `@flotiq`,
+    title: `AirbnbWelcome`,
+    description: `Airbnb house manual templates and printables.`,
     siteUrl: 'https://www.airbnbwelcome.com',
   },
   plugins: [{
