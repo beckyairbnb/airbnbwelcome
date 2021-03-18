@@ -72,6 +72,7 @@ const IndexPage = data => (
     <div className="container">
       <div className="text-center mt-5">
         <h2 className="with-underline">Airbnb Templates & Printables</h2>
+        <p>Welcome to Airbnb Welcome. We make listing and presenting your home as easy as possible with beautiful, easily editable airbnb templates and brochures for your guests.</p>
       </div>
       <IndexPost data={data}></IndexPost>
       <h2>Welcome Airbnb and Vacation Rental Hosts</h2>
