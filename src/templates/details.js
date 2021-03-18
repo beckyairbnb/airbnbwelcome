@@ -51,6 +51,7 @@ const ProductDetails = data => (
               data-item-price={data.data.product.price}
               data-item-image={data.data.product.productImage && data.data.product.productImage[0] ? `${process.env.GATSBY_FLOTIQ_BASE_URL}/image/1920x0/${data.data.product.productImage[0].id}.${data.data.product.productImage[0].extension}` : ""}              data-item-name={data.data.product.name}
               data-item-url={`/`}
+              data-item-file-guid={data.data.product.guid}
             >
               <i className="fas fa-tags" />
               Buy Now
