@@ -11,6 +11,8 @@ const ProductDetails = data => (
     <SEO title={data.data.product.name} keywords={[`gatsby`, `application`, `react`]} />
     <div className="container details-page">
       <div className="product-details">
+      <h3>Get 25% off your whole order. Discount applied at checkout.</h3>
+
         <div className="Product-Screenshot">
           {data.data.product.productGallery && data.data.product.productGallery.length ?
             <Tabs>
@@ -39,6 +41,8 @@ const ProductDetails = data => (
           <h2>{data.data.product.name}</h2>
 
         </div>
+        <h3>Get 25% off your whole order. Discount applied at checkout.</h3>
+
         <div className="row buynowinner">
           <div className="col-sm-2">
             <span className="price">Price: ${data.data.product.price}</span>
