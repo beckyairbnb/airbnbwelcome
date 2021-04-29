@@ -13,7 +13,8 @@ class Footer extends React.Component {
                                     <ul id="menu-main" className="menu">
                                         <li><Link to="/">Home</Link></li>
                                         <li><Link to="/about">About</Link></li>
-                                        <li><a href="mailto:becky@strategicallyc.co">Email Us</a></li>
+                                        <li><a href="https://www.etsy.com/shop/AirbnbWelcome">Etsy Store</a></li>
+                                        <li><a href="mailto:becky@strategically.co">Email Us</a></li>
                                     </ul>
                                 </div>
                             </section>
